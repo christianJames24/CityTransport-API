@@ -1,6 +1,6 @@
 # CityTransport-API
 
-ASP.NET Core Web API project for managing Montreal Transit Authority bus routes and schedules.
+ASP.NET Core Web API project for managing Montreal Transit Authority (not a real company) bus routes and schedules.
 
 ## Features
 
@@ -70,8 +70,4 @@ SQL Server LocalDB with seeded Montreal STM bus routes including:
 
 ## Academic Project
 
-Built for college web development assignment demonstrating ASP.NET Core Areas, Repository Pattern, and EF Core integration.
-
-## License
-
-Academic project - All rights reserved
+Built for cegep web development assignment demonstrating ASP.NET Core Areas, Repository Pattern, and EF Core integration.
